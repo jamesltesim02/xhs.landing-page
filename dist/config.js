@@ -4,9 +4,10 @@ window.HuarsConfig = {
   /** Telegram客服地址 */
   TELEGRAM_CHAT: 'https://t.me/xiaohuangshu_business',
   /** iOS下载地址 */
-  DOWNLOAD_IOS: 'https://statapi.putaoxiehui.com/ios/yaochi_v2/ch/0/light.mobileconfig',
+  DOWNLOAD_IOS: '',
+  // DOWNLOAD_IOS: 'https://statapi.putaoxiehui.com/ios/yaochi_v2/ch/0/light.mobileconfig',
   /** Android下载地址 */
-  DOWNLOAD_ANDROID: 'https://apk.6fffc.com/app-release2.3.10.apk',
+  DOWNLOAD_ANDROID: 'https://apk.6fffc.com/app-release-2.3.21.apk',
   /** 留言地址 */
   LEAVE_MESSAGE: 'https://t.me/xiaohuangshu_business',
   /** 官网显示内容 */
